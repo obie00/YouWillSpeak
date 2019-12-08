@@ -1,0 +1,41 @@
+{
+  "vocabularySize": 4,
+  "vocabulary": [
+    {
+      "english": "pizzafather",
+      "spanish": "pizzapadre",
+      "yoruba": "baba",
+      "inquiriesThisSession": 0,
+      "totalInquiries": 0,
+      "accurateResponses": 0,
+      "accuracyPercentage": 0
+    },
+    {
+      "english": "pizzamother",
+      "spanish": "pizzamadre",
+      "yoruba": "mama",
+      "inquiriesThisSession": 0,
+      "totalInquiries": 0,
+      "accurateResponses": 0,
+      "accuracyPercentage": 0
+    },
+    {
+      "english": "pizzabrother",
+      "spanish": "pizzahermano",
+      "yoruba": "arakunrin",
+      "inquiriesThisSession": 0,
+      "totalInquiries": 0,
+      "accurateResponses": 0,
+      "accuracyPercentage": 0
+    },
+    {
+      "english": "pizzasister",
+      "spanish": "pizzahermana",
+      "yoruba": "arabinrin",
+      "inquiriesThisSession": 0,
+      "totalInquiries": 0,
+      "accurateResponses": 0,
+      "accuracyPercentage": 0
+    }
+  ]
+}

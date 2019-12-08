@@ -1,0 +1,41 @@
+{
+  "vocabularySize": 4,
+  "vocabulary": [
+    {
+      "english": "fafther",
+      "spanish": "padre",
+      "yoruba": "baba",
+      "inquiriesThisSession": 0,
+      "totalInquiries": 0,
+      "accurateResponses": 0,
+      "accuracyPercentage": 0
+    },
+    {
+      "english": "mother",
+      "spanish": "madre",
+      "yoruba": "mama",
+      "inquiriesThisSession": 0,
+      "totalInquiries": 0,
+      "accurateResponses": 0,
+      "accuracyPercentage": 0
+    },
+    {
+      "english": "brother",
+      "spanish": "hermano",
+      "yoruba": "arakunrin",
+      "inquiriesThisSession": 0,
+      "totalInquiries": 0,
+      "accurateResponses": 0,
+      "accuracyPercentage": 0
+    },
+    {
+      "english": "sister",
+      "spanish": "hermana",
+      "yoruba": "arabinrin",
+      "inquiriesThisSession": 0,
+      "totalInquiries": 0,
+      "accurateResponses": 0,
+      "accuracyPercentage": 0
+    }
+  ]
+}
